@@ -6,7 +6,7 @@ I am a passionate ICT specialist with a strong focus on **cloud administration**
 - **Programming:** Python, Matlab, C++, R, JavaScript, Java, SQL
 - **Cloud Platforms:** Huawei Cloud, AWS(Self learning)  
 - **Networking:** Telecom (2G/3G/4G/LTE), ITIL Practices 
-- **Tools:** SCCM, Intune, Active Directory, ITSM Tools  
+- **Tools:** ITSM Tools  
 - **Machine Learning:** DNN with Tensorflow. ResNet with PyTorch
 
 ## 💼 Work Experience:
