@@ -6,7 +6,7 @@
 - 💼 **Past Work:**  
   - Developed Cloud solutions and led **85% automation** of ITSM at Huawei.
   - Researched **AI/ML in Networks** and Time-Sensitive Networks at (FAU). 
-- 📫 **Reach me:** [LinkedIn]([https://linkedin.com/in/yourprofile](http://www.linkedin.com/in/abdul-aleem-84701443)) | [Email](mailto:aleem.sl90@gmail.com)  
+- 📫 **Reach me:** [LinkedIn]([https://linkedin.com/in/yourprofile](http://www.linkedin.com/in/abdul-aleem-84701443) | [Email](mailto:aleem.sl90@gmail.com)  
 
 ### 🛠️ Skills  
 **Cloud:** Azure, Huawei OWS, IAM, RBAC
