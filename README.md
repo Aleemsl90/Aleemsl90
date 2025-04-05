@@ -9,11 +9,11 @@
 - 📫 **Reach me:** [LinkedIn]([https://linkedin.com/in/yourprofile](http://www.linkedin.com/in/abdul-aleem-84701443) | [Email](mailto:aleem.sl90@gmail.com)  
 
 ### 🛠️ Skills  
-**Cloud:** Azure, Huawei OWS, IAM, RBAC
-**ITSM:** ITIL, CMDB, SLA, SLO, KPIs
-**Networks:** RAN, NMS, IoT, SDN, Networking and QoS
-**AI/ML:**  DNN with Tensorflow, ResNet with PyTorch, Computer Vision
-**Programming:** Python, Matlab, C++, R, JavaScript, Java, SQL
+- **Cloud:** Azure, Huawei OWS, IAM, RBAC
+- **ITSM:** ITIL, CMDB, SLA, SLO, KPIs
+- **Networks:** RAN, NMS, IoT, SDN, Networking and QoS
+- **AI/ML:**  DNN with Tensorflow, ResNet with PyTorch, Computer Vision
+- **Programming:** Python, Matlab, C++, R, JavaScript, Java, SQL
 
 ### 📌 Featured Projects  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=azure-serverless-api)](https://github.com/yourusername/azure-serverless-api)  
