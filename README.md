@@ -1,19 +1,24 @@
-### 👋 Hi, I’m Abdul Aleem  
-**Cloud Architect | ITSM Automation Engineer | Telecom & AI Specialist**  
+## 👋 Hi, I’m Abdul Aleem  
+**ITSM Automation Engineer | Telecom & AI Specialist | Cloud Architect**  
+*Bridging telecom operations with modern cloud-native automation*  
 
-- 🔭 **Currently:** Building Azure cloud Projects.  
-- 🌱 **Learning:** Azure Cloud Services, Azure DevOps, DevOps Mastery [Git, Jenkins, Docker, Kubernetes, Ansible, Terraform].
-- 💼 **Past Work:**  
+### 🔧 Technical Toolkit  
+**🛠️ Core Skills:**  
+- **Automation:** Workflow automation, Python, Terraform, Ansible, CI/CD pipelines  
+- **Cloud:** Azure (in progress), Huawei Cloud, IaC  
+- **AI/ML:** ResNet Computer-Vision, RVTD-DNN (M.Sc. in ICT - AI focus)  
+- **ITSM:** IT Service Delivery, ITIL, Operations Specialist, SRE/NRE, CMDB optimization 
+
+### 📚 Currently Learning  
+- **Azure** IaC, IaaS, PaaS, SaaS
+- **DevOps** Azure DevOps, CI/CD pipelines, Git, Docker, Jenkins, Kubernetes, Ansible, Terraform
+- **Projects** Cloud Solutions, E2E Data Engineering
+
+### 💼 **Past Work:**  
   - Developed Cloud solutions and led **85% automation** of ITSM at Huawei.
   - Researched **AI/ML in Networks** and Time-Sensitive Networks at (FAU). 
-- 📫 **Reach me:** [LinkedIn]([https://linkedin.com/in/yourprofile](http://www.linkedin.com/in/abdul-aleem-84701443) | [Email](mailto:aleem.sl90@gmail.com)  
 
-### 🛠️ Skills  
-- **Cloud:** Azure, Huawei OWS, IAM, RBAC
-- **ITSM:** ITIL, CMDB, SLA, SLO, KPIs
-- **Networks:** RAN, NMS, IoT, SDN, Networking and QoS
-- **AI/ML:**  DNN with Tensorflow, ResNet with PyTorch, Computer Vision
-- **Programming:** Python, Matlab, C++, R, JavaScript, Java, SQL
+### 📫 **Contact:** [LinkedIn]([https://linkedin.com/in/yourprofile](http://www.linkedin.com/in/abdul-aleem-84701443) | [Email](mailto:aleem.sl90@gmail.com) 
 
 ### 📌 Featured Projects  
 
