@@ -1,12 +1,12 @@
 ## 👋 Hi, I’m Abdul Aleem  
-**ITSM Automation Engineer | Telecom & AI Specialist | Cloud Architect**  
+**Masters ICT | Cloud Solutions | ITSM/ITIL | Telecom Enginnering**  
 *Bridging telecom operations with modern cloud-native automation*  
 
 ### 🔧 Technical Toolkit  
 **🛠️ Core Skills:**  
-- **Automation:** Workflow automation, Python, Terraform, Ansible, CI/CD pipelines  
-- **Cloud:** Azure (in progress), Huawei Cloud, IaC  
-- **AI/ML:** ResNet Computer-Vision, RVTD-DNN (M.Sc. in ICT - AI focus)  
+- **Automation:** Workflow, Python, Terraform, Ansible, CI/CD pipelines  
+- **Cloud:** Azure (in progress), Huawei Cloud, IaC
+- **AI/ML:** ResNet Computer-Vision, RVTD-DNN (Python: Scikit, Pytorch, Tensorflow)
 - **ITSM:** IT Service Delivery, ITIL, Operations Specialist, SRE/NRE, CMDB optimization 
 
 ### 📚 Currently Learning  
